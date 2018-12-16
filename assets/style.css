@@ -1,0 +1,103 @@
+.btn{
+  color: lightgrey;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card{
+  width: 200px;
+  height: 100px;
+}
+
+#cecilia{
+  height: 200px;
+  width: 300px;
+  
+  }
+
+.container{
+  margin-top: 5%;
+  border: 10px;
+  border-color: rgb(15, 92, 64);
+  border-style: double;
+  padding: 100px;
+  background-color: white;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.fa
+{
+color: darkgrey;
+}
+
+.fa:hover{
+  color: rgb(15, 92, 64);
+}
+
+.footer-bottom {
+  position: fixed;
+  text-align: center;
+  border-top: 5px solid;
+  border-color: rgb(51, 49, 49);
+  overflow: hidden;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  margin-top: 15%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(15, 92, 64);
+  }
+
+.footer-head{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgrey;
+  
+  }
+
+form{
+  margin-top: 5%;
+  margin-left: 30%;
+  margin-right: 30%;
+  border: 10px;
+  border-color:rgb(15, 92, 64);
+  border-style: double;
+  padding: 20px;
+  width: 80%;
+}
+
+#index{
+  padding:20px;
+  text-align: center;
+}
+
+.page-header{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: darkgrey;
+  margin-bottom: 5px;
+  
+  }
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgrey;
+    margin-bottom: 5px;
+    word-wrap: normal;
+      width: 400px;
+  }
+
+#portfoliopics{
+  padding: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.navbar-nav{
+  border-bottom: 5px;
+  border-bottom-color:rgb(15, 92, 64);
+  border-bottom-style: solid;
+  position: static;
+  
+  }
+  span.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
