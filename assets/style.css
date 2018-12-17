@@ -1,6 +1,11 @@
 .btn{
   color: lightgrey;
   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#sb{
+  color: lightgrey;
+  background-color:  rgb(15, 92, 64);
 }
 
 .card{
